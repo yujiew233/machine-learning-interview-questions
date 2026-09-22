@@ -3,17 +3,17 @@
 A curated set of interview practice questions across statistics, machine learning, deep learning, NLP, MLOps, recommendation systems, and large-scale LLM systems. Answers have been intentionally omitted so the document can be used for self-study, mock interviews, or discussion prompts.
 
 ## Table of Contents
-- [Statistics & Probability](#statistics-probability)
-- [Classical ML, Regression, Trees & Evaluation](#classical-ml-regression-trees-evaluation)
-- [Clustering & Unsupervised Learning](#clustering-unsupervised-learning)
-- [Optimization, Math & Operations Research](#optimization-math-operations-research)
-- [Neural Networks & Deep Learning](#neural-networks-deep-learning)
-- [NLP, Transformers, LLMs & Generative AI](#nlp-transformers-llms-generative-ai)
-- [Recommendation, Ranking & User Modeling](#recommendation-ranking-user-modeling)
-- [Computer Vision, Speech & Multimodal ML](#computer-vision-speech-multimodal-ml)
-- [Data Quality, Data Strategy & Preprocessing](#data-quality-data-strategy-preprocessing)
-- [MLOps, Production Monitoring & Deployment](#mlops-production-monitoring-deployment)
-- [Large-Scale / Distributed LLM Systems](#large-scale-distributed-llm-systems)
+- [Statistics & Probability](#statistics--probability)
+- [Classical ML, Regression, Trees & Evaluation](#classical-ml-regression-trees--evaluation)
+- [Clustering & Unsupervised Learning](#clustering--unsupervised-learning)
+- [Optimization, Math & Operations Research](#optimization-math--operations-research)
+- [Neural Networks & Deep Learning](#neural-networks--deep-learning)
+- [NLP, Transformers, LLMs & Generative AI](#nlp-transformers-llms--generative-ai)
+- [Recommendation, Ranking & User Modeling](#recommendation-ranking--user-modeling)
+- [Computer Vision, Speech & Multimodal ML](#computer-vision-speech--multimodal-ml)
+- [Data Quality, Data Strategy & Preprocessing](#data-quality-data-strategy--preprocessing)
+- [MLOps, Production Monitoring & Deployment](#mlops-production-monitoring--deployment)
+- [Large-Scale / Distributed LLM Systems](#large-scale--distributed-llm-systems)
 
 ## Statistics & Probability
 
